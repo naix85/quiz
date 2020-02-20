@@ -1,0 +1,3 @@
+mac_chrome: --profile dir PLATFORM=chrome OS=MAC APPLICATION=website
+
+dir: -r support -r stepdefinitions -r pageobjects
